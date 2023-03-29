@@ -1,2 +1,2 @@
 # labs
-want start offensive security
+test offensive security
